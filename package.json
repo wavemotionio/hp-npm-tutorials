@@ -1,0 +1,17 @@
+{
+  "name": "hp-npm-tutorials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/wavemotionio/hp-npm-tutorials.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "rimraf": "npx rimraf node_modules"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.20",
+    "rimraf": "^3.0.2"
+  }
+}
